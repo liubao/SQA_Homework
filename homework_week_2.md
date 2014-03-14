@@ -1,3 +1,4 @@
+##Chapter 4##
 In chapter 4, I learned defect handling during the execution of specific QA activities and examine how different QA 
 activities fit into different software processes, and examine the QA activities from the perspective of verification 
 and validation (V&V), and try to reconcile this V&V view with our view of QA as different ways of dealing with defects.
