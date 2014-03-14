@@ -1,4 +1,5 @@
 My understanding of Software Quality Assurance(SQA):
+==========
 
 I think SQA is to make sure developers develop an usable and qualified software.SQA  is to establish a planned, systematic
 approach to develop a standard to ensure that the management, procedures, practices and methods can properly be applied to 
