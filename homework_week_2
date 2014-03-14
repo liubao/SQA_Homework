@@ -17,7 +17,16 @@ I am familiar with all the major test activities individually, including test pl
 and measurement, and test results analysis and follow-up. We also examine the roles and responsibilities of different 
 people in carrying out these activities and the related management issues. Test automation issues are covered.
 
-Chapter 8 is about coverage and usage testing based on checklists and partitions. This chapter, we describe several formal test techniques whose models are based on simple structures such as lists and partitions. In particular, the following topics are covered: We start with informal and semi-formal testing with the use of various checklists. These checklists are formalized into partitions to perform basic coverage based testing.The basic usage-based testing for partitions using a similar testing model called Musa's operational profiles (OPs) is described We also cover the procedure for developing OPs and present a comprehensive case study.
+Chapter 8 is about coverage and usage testing based on checklists and partitions. This chapter, we describe several formal 
+test techniques whose models are based on simple structures such as lists and partitions. In particular, the following 
+topics are covered: We start with informal and semi-formal testing with the use of various checklists. These checklists
+are formalized into partitions to perform basic coverage based testing.The basic usage-based testing for partitions using 
+a similar testing model called Musa's operational profiles (OPs) is described We also cover the procedure for developing 
+OPs and present a comprehensive case study.
 
 Chapter 9 is about input domain partitioning and boundary testing.
-In this chapter, the idea of partition-based testing is applied to partition the overall input domain into sub-domains and to test them accordingly. However, the simple strategies for sub-domain coverage are found to be inadequate for many situations. This inadequacy is particularly noted in dealing with problems specifying or implementing the sub-domains involving numeric input variables. Many problems are commonly observed at the boundaries, leading us to examine various boundary testing strategies in this chapter.
+In this chapter, the idea of partition-based testing is applied to partition the overall input domain into sub-domains and
+to test them accordingly. However, the simple strategies for sub-domain coverage are found to be inadequate for many 
+situations. This inadequacy is particularly noted in dealing with problems specifying or implementing the sub-domains 
+involving numeric input variables. Many problems are commonly observed at the boundaries, leading us to examine various
+boundary testing strategies in this chapter.
