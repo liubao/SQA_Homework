@@ -1,6 +1,6 @@
 #General problems with input domain partitions#
 
-In general, the problems in the computation or information processing for a given input can
+In general, the problems in the computation or information processing for a given input can 
 generally fall into two categories:
 Ambiguity or under-defined processing for some given input: Some input values or
 test points in the input domain cannot be handled by the program unit under testing.
