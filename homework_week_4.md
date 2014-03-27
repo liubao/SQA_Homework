@@ -1,5 +1,6 @@
 ##How to select and sensitize path in CFT?##
 The key to path sensitization is the decision or branching nodes and the associated conditions.
+
 If all these conditions are independent of each other, then all the paths defined above
 can be sensitized by selecting variable vallues to satisfy the specific conditions for each path.
 
