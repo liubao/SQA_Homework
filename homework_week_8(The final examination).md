@@ -20,26 +20,26 @@ As to diandian, I can test if the buttons is effective, after I clicked all butt
 
 Sample test strategy document
 
-● testing purposes :
+● Testing purposes :
 ( 1 ) the scope of the test , including what features to include and what to exclude
-( 2 ) Who is the customer and the end user , who is the acceptance of test results by
+( 2 ) Who is the customer and the end user , who is the acceptance of test results 
 ( 3 ) the test sequence and schedule
-( 4 ) acceptance of the conditions of success factors limit
+( 4 ) acceptance of the conditions, success factors, limition
 
-● Resource Requirements :
+● Resource requirements :
 What skills and experience
 ( 1 ) the need to plan and run the test
 ( 2 ) the roles and responsibilities of relevant personnel
 ( 3 ) Who will be the overall coordination of the test work
 ( 4 ) Who is responsible for test data management , version control , bug tracking
 
-● Test environment :
+● Testing environment :
 ( 1 ) System configuration for testing how
 ( 2 ) What automated tools
 ( 3 ) What are the test data ( database and enter the transaction ) needs, how to install
 ( 4 ) how to adjust the system clock before
 
-● testing process :
+● Testing process :
 ( 1 ) which is running the test procedure to be followed ( settings, perform , record )
 ( 2 ) how to develop a test case , and what is its standard format
 ( 3 ) What  coverage requirements are defined test cases
