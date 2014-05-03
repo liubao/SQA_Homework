@@ -15,3 +15,4 @@ Test whether the product meet the design requirements, including: whether each f
 Whether the operations of the product is running stable. 
 
 Bugs and rate of defect is controled within the range of acceptable.
+
