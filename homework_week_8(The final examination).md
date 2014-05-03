@@ -19,6 +19,7 @@ Bugs and rate of defect is controled within the range of acceptable.
 As to diandian, I can test if the buttons is effective, after I clicked all buttons, whether there are bugs, whether the software is running stable, and so on.
 
 Sample test strategy document
+
 ● testing purposes :
 ( 1 ) the scope of the test , including what features to include and what to exclude
 ( 2 ) Who is the customer and the end user , who is the acceptance of test results by
