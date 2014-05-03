@@ -39,3 +39,4 @@ What skills and experience ( 1 ) the need to plan and run the test
 ( 2 ) how to develop a test case , and what is its standard format
 What ( 3 ) coverage requirements are defined test cases
 ( 4 ) have a problem how to determine the severity of the problem of how to deal with
+
