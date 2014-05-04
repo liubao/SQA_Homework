@@ -58,4 +58,4 @@ Step 5: Software test evaluation
 
 Combines  quantized test coverage domain and defect tracking reports, conduct a comprehensive assessment for the quality of application software and the progress and efficiency of the development team.
 
-Clearly, black box testing only in strict accordance with the steps , it may be the quality of the application checks . However , without the help of an excellent testing tool , simply by virtue of manual testing , not only to spend a lot of manpower, material and financial resources, and there are a lot of testing is difficult or even impossible to achieve.
+Clearly, black box testing only in strict accordance with the steps , it may be can ensure the quality of the application . However , without the help of an excellent testing tool , simply by virtue of manual testing , not only to spend a lot of manpower, material and financial resources, and there are a lot of testing is difficult or even impossible to achieve.
