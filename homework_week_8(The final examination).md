@@ -10,8 +10,8 @@ Step 3：Analysis and follow-up, which include result checking and analysis to d
 
 As to DianDian, I can design a test like following:
 
-1 A Software Test Plan
-
+Step 1:Make a software test plan.
+ 
 Firstly, according to user's needs and report on the performance of the functional requirements specification , software testing needs to define the corresponding report , namely define the highest standard of black box testing ,all future work of software testing will focus on the testing requirements. If application meets requirements, that is qualified , whereas that is unqualified ; meanwhile we also need choose test content, arrange software testers , test time and test resources appropriately.
 
 Maybe I can set a goal for testing like this:
@@ -26,7 +26,7 @@ Bugs and rate of defect is controled within the range of acceptable.
 
 As to DianDian, I can test if the buttons is effective, after I clicked all buttons, whether there are bugs, whether the software is running stable, and so on.
 
-2 Software test design
+Step 2：Make a software test design.
 
 Decompose test requirements, subdivide into a number of executable test process , and select the appropriate test cases for each test procedure ( test case selection will directly affect the validity of the test results ).
 
@@ -36,11 +36,11 @@ Different types of software, test cases are different. Unlike such systems, tool
 
 As to DianDian, I can write test cases to test if each of the function is in good condition.
 
-3 Software Test Development
+Step 3: Software test development
 
 Create automated test procedure that can be reused.
 
-4 Software Test Execution
+Step 4: Software test execution
 
 Execute automatic test process that created  in test development stage, track and manage defects discovered. Test execution generally consist of unit testing, combinatorial testing , integration testing, system testing, system integration and test and regression testing. Testers should be based on science and responsible attitude, test step by step .
 
@@ -54,7 +54,7 @@ Regression testing means:after changing the old code, re-test to confirm the cha
 
 We can test DianDian step by step using unit testing, combinatorial testing , integration testing, system testing, system integration and test and regression testing.
 
-5 Software Test Evaluation
+Step 5: Software test evaluation
 
 Combines  quantized test coverage domain and defect tracking reports, conduct a comprehensive assessment for the quality of application software and the progress and efficiency of the development team.
 
