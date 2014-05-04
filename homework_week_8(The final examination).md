@@ -7,42 +7,20 @@ Step 2：Test execution and related activities, which also include related obser
 
 Step 3：Analysis and follow-up, which include result checking and analysis to determine if a failure has been observed, and if so, follow-up activities are initiated and monitored to ensure removal of the underlying causes, or faults, that led to the observed failures in the first place.
 
-In step 1, we set the goals for testing, maybe I can set a goal for testing like this:
 
-Through testing, to achieve the following objectives: 
+As to DianDian, I can design a test like following:
 
-Goal 1:Test whether the product meets the design requirements, including: whether each function is realized, and whether the function process is correct. 
+1 A Software Test Plan
+Firstly, according to user needs and report on the performance of the functional requirements specification , software testing needs to define the corresponding report , namely the development of the highest standards of black box testing , software testing all future work will focus on the testing requirements to meet test requirements application that is qualified , whereas that is unqualified ; while also appropriate choice test content , reasonable arrangements for software testers , test time and test resources.
 
-Goal 2:Whether the operation of the product is running stable. 
+2 software test design
+The test plan developed test requirements decomposition stage , subdivided into a number of executable test process , and select the appropriate test cases for each test procedure ( test case selection will directly affect the validity of the test results ) .
+3 Software Test Development
+Create automated test procedure can be reused.
 
-Goal 3:Whether bugs and rate of defect is controled within the range of acceptable.
+4 Software Test Execution
+Automatic test execution test development phase created and discovered defect tracking management. Test execution generally unit testing, combinatorial testing , integration testing, system testing and regression FBI steps , testers should be based on science and responsible attitude, step by step test .
 
-As to diandian, I can test if the buttons is effective, after I clicked all buttons, whether there are bugs, whether the software is running stable, and so on.
-
-Sample test strategy document
-
-● Testing purposes :
-( 1 ) the scope of the test , including what features to include and what to exclude
-( 2 ) Who is the customer and the end user , who is the acceptance of test results 
-( 3 ) the test sequence and schedule
-( 4 ) acceptance of the conditions, success factors, limition
-
-● Resource requirements :
-What skills and experience
-( 1 ) the need to plan and run the test
-( 2 ) the roles and responsibilities of relevant personnel
-( 3 ) Who will be the overall coordination of the test work
-( 4 ) Who is responsible for test data management , version control , bug tracking
-
-● Testing environment :
-( 1 ) System configuration for testing how
-( 2 ) What automated tools
-( 3 ) What are the test data ( database and enter the transaction ) needs, how to install
-( 4 ) how to adjust the system clock before
-
-● Testing process :
-( 1 ) which is running the test procedure to be followed ( settings, perform , record )
-( 2 ) how to develop a test case , and what is its standard format
-( 3 ) What  coverage requirements are defined test cases
-( 4 ) have a problem how to determine the severity of the problem of how to deal with
-
+5 Software Test Evaluation
+Combines quantitative field test coverage and defect tracking reports for the progress and efficiency of the quality and application software development team conducted a comprehensive evaluation .
+Clearly, black box testing only in strict accordance with the steps , it may be the quality of the application checks . However , without the help of an excellent testing tool , simply by virtue of manual testing , not only to spend a lot of manpower, material and financial resources, and there are a lot of testing is difficult or even impossible to achieve.
