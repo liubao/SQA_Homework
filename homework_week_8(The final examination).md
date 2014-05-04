@@ -24,11 +24,17 @@ Whether the operations of the product is running stable.
 
 Bugs and rate of defect is controled within the range of acceptable.
 
-As to diandian, I can test if the buttons is effective, after I clicked all buttons, whether there are bugs, whether the software is running stable, and so on.
+As to DianDian, I can test if the buttons is effective, after I clicked all buttons, whether there are bugs, whether the software is running stable, and so on.
 
 2 Software test design
 
-Decompose test requirements, subdivide into a number of executable test process , and select the appropriate test cases for each test procedure ( test case selection will directly affect the validity of the test results ) .
+Decompose test requirements, subdivide into a number of executable test process , and select the appropriate test cases for each test procedure ( test case selection will directly affect the validity of the test results ).
+
+Test case refers to a particular software product testing task description, reflecting the test program, methods, techniques and strategies. Including test objectives, test environment, input data, test steps, expected results, test scripts, etc., and then form a document. 
+
+Different types of software, test cases are different. Unlike such systems, tools, controls, game software, management software, the user needs more non-uniform, changing bigger and faster.
+
+As to DianDian, I can write test cases to test if each of the function is in good condition.
 
 3 Software Test Development
 
@@ -36,7 +42,17 @@ Create automated test procedure that can be reused.
 
 4 Software Test Execution
 
-Execute automatic test process that created  in test development stage, track and manage defects discovered. Test execution generally consist of unit testing, combinatorial testing , integration testing, system testing,system integration and test and regression testing. Testers should be based on science and responsible attitude, test step by step .
+Execute automatic test process that created  in test development stage, track and manage defects discovered. Test execution generally consist of unit testing, combinatorial testing , integration testing, system testing, system integration and test and regression testing. Testers should be based on science and responsible attitude, test step by step .
+
+Unit testing, refers to the minimum in the software testing unit for inspection and verification.
+
+Combinatorial test can guarantee under the premise of error detection using fewer test cases to test system.
+
+Dintegration testing is on the basis of unit tests, assemble all modules into a subsystem or system based on design requirements.
+
+Regression testing means:after changing the old code, re-test to confirm the changes do not introduce new errors or cause other code generates an error.
+
+We can test DianDian step by step using unit testing, combinatorial testing , integration testing, system testing, system integration and test and regression testing.
 
 5 Software Test Evaluation
 
