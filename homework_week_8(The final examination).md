@@ -26,7 +26,7 @@ Bugs and rate of defect is controled within the range of acceptable.
 
 As to DianDian, I can test if the buttons is effective, after I clicked all buttons, whether there are bugs, whether the software is running stable, and so on.
 
-####Step 2：Make a software test design.
+####Step 2：Design how to test this software.
 
 Decompose test requirements, subdivide into a number of executable test process , and select the appropriate test cases for each test procedure ( test case selection will directly affect the validity of the test results ).
 
