@@ -24,4 +24,5 @@ Automatic test execution test development phase created and discovered defect tr
 
 5 Software Test Evaluation
 Combines quantitative field test coverage and defect tracking reports for the progress and efficiency of the quality and application software development team conducted a comprehensive evaluation .
+
 Clearly, black box testing only in strict accordance with the steps , it may be the quality of the application checks . However , without the help of an excellent testing tool , simply by virtue of manual testing , not only to spend a lot of manpower, material and financial resources, and there are a lot of testing is difficult or even impossible to achieve.
