@@ -11,7 +11,7 @@ Step 3：Analysis and follow-up, which include result checking and analysis to d
 As to DianDian, I can design a test like following:
 
 1 A Software Test Plan
-Firstly, according to user needs and report on the performance of the functional requirements specification , software testing needs to define the corresponding report , namely the development of the highest standards of black box testing , software testing all future work will focus on the testing requirements to meet test requirements application that is qualified , whereas that is unqualified ; while also appropriate choice test content , reasonable arrangements for software testers , test time and test resources.
+Firstly, according to user's needs and report on the performance of the functional requirements specification , software testing needs to define the corresponding report , namely define the highest standard of black box testing ,all future work of software testing will focus on the testing requirements. If application meets requirements, that is qualified , whereas that is unqualified ; meanwhile we also need choose test content, arrange software testers , test time and test resources appropriatly.
 
 2 software test design
 The test plan developed test requirements decomposition stage , subdivided into a number of executable test process , and select the appropriate test cases for each test procedure ( test case selection will directly affect the validity of the test results ) .
