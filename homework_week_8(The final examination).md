@@ -10,7 +10,7 @@ Step 3：Analysis and follow-up, which include result checking and analysis to d
 
 As to DianDian, I can design a test like following:
 
-###Step 1:Make a software test plan.
+####Step 1:Make a software test plan.
  
 Firstly, according to user's needs and report on the performance of the functional requirements specification , software testing needs to define the corresponding report , namely define the highest standard of black box testing ,all future work of software testing will focus on the testing requirements. If application meets requirements, that is qualified , whereas that is unqualified ; meanwhile we also need choose test content, arrange software testers , test time and test resources appropriately.
 
